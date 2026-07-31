@@ -33,5 +33,4 @@
 <!--icons and links-->
 <p align="left">
 <a href="https://www.linkedin.com/in/ignaciomartin1/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
